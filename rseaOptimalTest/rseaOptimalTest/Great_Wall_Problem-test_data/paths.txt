@@ -1,0 +1,17 @@
+20, Great_Wall_Problem-test_data//20//input-pairs-20.txt
+50, Great_Wall_Problem-test_data//50//input-pairs-50.txt
+100, Great_Wall_Problem-test_data//100//input-pairs-100.txt
+200, Great_Wall_Problem-test_data//200//input-pairs-200.txt
+500, Great_Wall_Problem-test_data//500//input-pairs-500.txt
+1K, Great_Wall_Problem-test_data//1K//input-pairs-1K.txt
+2K, Great_Wall_Problem-test_data//2K//input-pairs-2K.txt
+5K, Great_Wall_Problem-test_data//5K//input-pairs-5K.txt
+10K, Great_Wall_Problem-test_data//10K//input-pairs-10K.txt
+20K, Great_Wall_Problem-test_data//20K//input-pairs-20K.txt
+50K, Great_Wall_Problem-test_data//50K//input-pairs-50K.txt
+100K, Great_Wall_Problem-test_data//100K//input-pairs-100K.txt
+200K, Great_Wall_Problem-test_data//200K//input-pairs-200K.txt
+500K, Great_Wall_Problem-test_data//500K//input-pairs-500K.txt
+1M, Great_Wall_Problem-test_data//1M//input-pairs-1M.txt
+2M, Great_Wall_Problem-test_data//2M//input-pairs-2M.txt
+3M, Great_Wall_Problem-test_data//3M//input-pairs-3M.txt
