@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Folders
+*.vs/
+*x64/
+
+# Extensions
+*.pdb
+*.idb
+*.tlog
+*.log
+*.db
+*.suo
